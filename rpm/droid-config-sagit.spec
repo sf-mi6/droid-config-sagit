@@ -10,6 +10,8 @@
 # We assume most devices will
 %define have_modem 1
 
+Provides: ofono-configs
+
 # Use kernel modules
 %define have_kernel_modules 1
 
