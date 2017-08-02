@@ -84,5 +84,8 @@ Requires:
 # For devices with SD Card
 #- sd-utils
 
+# For torch
+- jolla-settings-system-flashlight
+
 Summary: Jolla HW Adaptation sagit
 
