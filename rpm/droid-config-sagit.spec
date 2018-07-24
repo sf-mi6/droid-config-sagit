@@ -11,6 +11,7 @@
 %define have_modem 1
 
 Provides: ofono-configs
+Obsoletes: ofono-configs-mer
 
 # Use kernel modules
 %define have_kernel_modules 1
