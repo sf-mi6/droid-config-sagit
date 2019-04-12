@@ -10,6 +10,9 @@
 # We assume most devices will
 %define have_modem 1
 
+# Use kernel modules
+%define have_kernel_modules 1
+
 # Community HW adaptations need this
 %define community_adaptation 1
 
